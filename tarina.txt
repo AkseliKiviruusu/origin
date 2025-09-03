@@ -12,4 +12,4 @@ Though he now lives in the U.S., Linus still holds a bit of a cult-like status a
 
 And despite being associated with “free software,” Linus has often clarified that he’s more of a pragmatist than an idealist—he favors open-source because it leads to better software, not necessarily because of philosophical or political beliefs.
 
-Oh, and he prefers scuba diving and photography when he’s not buried in kernel patches.
+Oh, and they prefer scuba diving and photography when he’s not buried in kernel patches.
