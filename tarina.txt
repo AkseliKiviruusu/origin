@@ -1,0 +1,15 @@
+Linus Benedict Torvalds, born December 28, 1969, in Helsinki, Finland, is best known as the creator of the Linux kernel, which powers everything from Android phones to supercomputers and most of the internet’s infrastructure. Despite his major impact on modern computing, he originally began the project as a hobby while he was a student at the University of Helsinki in the early 1990s. He posted to a Usenet newsgroup in 1991, asking for feedback on a free operating system he was working on—little did anyone know that this would become one of the most important software projects of all time.
+
+The Linux kernel itself is just that—a kernel. It doesn't come with user applications or graphical interfaces out of the box. What we commonly refer to as “Linux” is typically a Linux distribution, which includes the kernel plus a suite of software utilities, libraries, and often a desktop environment. Popular distributions include Ubuntu, Fedora, Debian, and Arch, each with its own philosophy and user base.
+
+Linus has a reputation for being a brilliant but blunt figure in the open-source world. He’s known for his no-nonsense attitude and often sharp communication style on mailing lists. In fact, his abrasive style led to enough controversy that in 2018 he publicly apologized and took a break from Linux development to reflect on his behavior and improve the tone of community interactions. He also helped introduce a new Code of Conduct to the Linux kernel project to foster a more inclusive and respectful development environment.
+
+Interestingly, Linus didn’t initially set out to conquer the software world. His grandfather was a poet, and his parents were journalists. He named his daughter Patricia Miranda Torvalds—fun fact: Miranda was chosen because it sounds cool in English and has a literary flair. Another trivia tidbit: the asteroid “9793 Torvalds” was named in his honor.
+
+Beyond Linux, Linus also created Git, the distributed version control system now used by millions of developers worldwide. Ironically, he wrote Git in 2005 out of frustration with existing tools at the time, not because he wanted to make a new standard—but it quickly became the de facto one.
+
+Though he now lives in the U.S., Linus still holds a bit of a cult-like status among developers. Not so much because he’s flashy (he isn't), but because of the sheer scale of what he enabled. And he still oversees Linux kernel development to this day, merging changes from thousands of contributors across the globe.
+
+And despite being associated with “free software,” Linus has often clarified that he’s more of a pragmatist than an idealist—he favors open-source because it leads to better software, not necessarily because of philosophical or political beliefs.
+
+Oh, and he prefers scuba diving and photography when he’s not buried in kernel patches.
